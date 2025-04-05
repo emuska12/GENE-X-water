@@ -1,5 +1,6 @@
 # GENE-X-water
 Lokálne zarovnávanie sekvencií (Smith-Waterman) pomocou DP a rekurzie v Streamlit app.
+https://gene-x-smithwaterman.streamlit.app/
 
 # Local Sequence Alignment Tool
 
