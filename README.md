@@ -15,8 +15,6 @@ In this project, we imagine discovering biological samples from a meteorite, con
   - **Dynamic Programming**: Iterative computation for efficient alignment.
   - **Recursion with Memoization**: Recursive computation with caching for optimized performance.
 - **Customizable Scoring**: Users can adjust scoring parameters:
-  - Match score (default: +1)
-  - Mismatch penalty (default: -1)
   - Gap opening penalty (default: -10)
   - Gap extension penalty (default: -0.5)
 - **Input Options**: Upload FASTA files or manually enter sequences via text input.
